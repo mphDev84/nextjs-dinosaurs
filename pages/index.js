@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
-import Date from "../components/Date";
+import Date from "../Components/Date";
 import FirstComponent from "../Components/FirstComponent";
 import Layout from "../Components/Layout";
 import utilStyles from "../styles/utils.module.css";
