@@ -1,2 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn)."# nextjs-dinosaurs" 
-"# nextjs-dinosaurs" 
+A simple Nextjs app that shows routing and data fetching (.md file) for a 'Dinosaur Info' page. 
